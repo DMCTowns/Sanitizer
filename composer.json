@@ -1,0 +1,12 @@
+{
+    "name": "dmc-towns/sanitizer",
+    "description": "A set static classes to allow sanitization of inputs and HTML",
+    "require": {
+        "php": "^5.3.6 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DMCTowns\\Sanitizer\\": "src/"
+        }
+    }
+}
