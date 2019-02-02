@@ -1,2 +1,2 @@
-# Sanitiser
-A set static classes to sanitise HTML input
+# Sanitizer
+A static class to sanitize HTML input
